@@ -1,6 +1,6 @@
 name: otel_mindee
 description: "Dartastic OpenTelemetry bridge for Mindee document AI (predictions, products, pages, confidence)."
-version: 0.1.0-beta.1-wip
+version: 0.1.0-beta.1
 repository: https://github.com/dartastic/otel_mindee
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
